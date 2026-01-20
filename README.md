@@ -53,4 +53,4 @@ protecting creators, students, professionals, and everyday users from identity t
 
 ---
 
-### 🧑‍💻 Built with passion. Powered by AI.
+### 🧑‍💻 Built with passion. 
